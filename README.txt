@@ -4,8 +4,9 @@ Github: https://github.com/OriWeiss/
 
 Computer Vision program for Sickle Cell Anemia detection.
 
-Extracts images and data that can be used in the diagnosis process.
+Extracts images and data that can be used in the diagnosis process. Learn more in the pdf file.
 
+To setup the dependecied run the command "python setup.py install"
 
 I ask that anyone who wishes to contribute to this project contact me through git hub messaging or my website.
 
